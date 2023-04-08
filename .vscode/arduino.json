@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "programmer": "arduinoisp",
-    "sketch": "FunWithMusic\\music\\music.ino",
-    "port": "COM11"
-}
