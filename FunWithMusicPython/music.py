@@ -10,7 +10,7 @@ if SERIAL_MODE:
     SER = serial.Serial("COM11", 9600, timeout=None)
     SER.timeout = None
 
-FILE_OVERRIDE = "Test"
+FILE_OVERRIDE = ""
 
 def openFile():
     if FILE_OVERRIDE == "":

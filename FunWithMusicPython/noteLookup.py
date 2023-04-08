@@ -1,7 +1,7 @@
 
 Notes = {}
 
-file = open("Music\\noten.txt")
+file = open("FunWithMusicPython\\noten.txt")
 lines = file.readlines()
 for line in lines:
     try:
