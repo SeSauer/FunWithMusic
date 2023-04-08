@@ -1,6 +1,6 @@
 
 
-def playNote(freq, dur, punct, serial):
+def playTone(freq, dur, punct, serial):
     freqCode = repr(freq)
     durCode = repr(dur)
     punctCode = repr(punct)
